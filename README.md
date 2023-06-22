@@ -10,8 +10,7 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000¢er=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+SK+JOSIM+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+SK+JOSIM+🥀;Today+I+Will+Tell+You+😇;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friend+🤙+🥰;Love+From+Bangladesh🇧🇩)](https://git.io/typing-svg)
  
-![P4RVEJ](https://avatars.githubusercontent.com/u/107547154?v=4)
- 
+![P4RVEJ](avatares/Picsart_23-06-10_18-11-35-838.jpg)
  
 ![P4RVEJ](https://user-images.githubusercontent.com/87250241/154004616-9ada377d-645e-4146-b521-07a16bc7900b.gif)
  
