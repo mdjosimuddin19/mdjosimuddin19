@@ -35,9 +35,7 @@
  
 ###​ ​⚙️ ​ ​ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 & 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐
   
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)​ 
-
-![​HTML​](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)​   
-![​CSS​](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)​  
+  ![​HTML​](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)​   
+  ![​CSS​](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)​  
 
  
